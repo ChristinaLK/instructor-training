@@ -4,7 +4,11 @@ subtitle: Designing Lessons for Learners
 ---
 > ## Learning Objectives
 >
-> * FIXME
+> * Describe the steps taken when designing a lesson using reverse instructional design. 
+> * Given a topic, write a possible summative assessment item for that topic.  
+> * Differentiate between weak and strong learning objectives.  
+> * Write three different strong learning objectives based on a weak learning objective.  
+> * Given a summative assessment item, write a related learning objective.  
 {: .objectives}
 
 ## Reverse Instructional Design
