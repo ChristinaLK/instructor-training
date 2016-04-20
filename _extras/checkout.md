@@ -177,7 +177,10 @@ she may ask you to come back for another session later.
 ### Rubric
 <a name="rubric"></a>
 
-Trainees should be prepared to answer these questions during the discussion session:
+Trainees are expected to participate in the discussion, and ask at least 
+one question about their prepared lesson (or teaching workshops generally).  The 
+following list is a starting point for questions that trainees may want to 
+ask or answer during the discussion: 
 
 *   Have you been a learner, helper, or instructor at a workshop before?
     If so, which one(s), and what were the most interesting or surprising things you learned?
@@ -193,9 +196,6 @@ Trainees should be prepared to answer these questions during the discussion sess
     and why?
 *   What are you most excited about teaching? (Be specific.)
 *   What are you most apprehensive about teaching? (Be specific.)
-
-(Note that any particular trainee will only be asked some of these questions,
-but they should prepare answers to all of them.)
 
 ## Part 3: Teach a Short Demonstration Lesson
 <a name="demo-lesson"></a>
